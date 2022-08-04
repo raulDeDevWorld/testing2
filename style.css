@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+    height: 100vh;
+    width: 100vw;
+}
+.class {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('./section-one-background.jpg');
+    background-size: cover;
+    background-color: red;
+}
